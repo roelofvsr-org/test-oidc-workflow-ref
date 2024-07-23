@@ -1,6 +1,6 @@
 name: Azure-OIDC-reusable-Example
 
-on: workflow_call
+on: workflow_dispatch:
 
 permissions:
   id-token: write
